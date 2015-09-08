@@ -18,7 +18,7 @@ var gtin = require('gtin-generator')
 
 Returns a random GTIN-14 with vaild check valid
 
-### gtin.getGTIN(num)
+### gtin.calCulateCheckDigit(num)
 
 Returns calculated check digit for the number provided. Throws error if the argument is not a valid number.
 
