@@ -1,6 +1,6 @@
 {
   "name": "gtin-generator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "NPM module to generate random GTIN14 for testing",
   "main": "index.js",
   "scripts": {
